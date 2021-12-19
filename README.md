@@ -47,13 +47,16 @@
 
 
 ## 图像处理专题
-  | 书籍 《Handbook of image processing and computer vision》全三册主题，
+  | 书籍 《Handbook of image processing and computer vision》全三册主题
   
       从能量到图像，https://link.springer.com/book/10.1007/978-3-030-38148-6
       
       从图像到模式，https://link.springer.com/book/10.1007/978-3-030-42374-2
       
       从模式到物体. https://link.springer.com/book/10.1007/978-3-030-42378-0
+  
+  这套书的好处，可以将图像处理的各种知识点串接称为一个完整的体系，从光的传播到数字图像的获取，到底层图像的处理，到高层特征或模式的提取，再到三维重建。
+  三维重建让人不禁想起了Marr的计算视觉导论。
   
   
 ### 三条脉络：
